@@ -2,5 +2,5 @@
 
 My first repository on GitHub
 
-I love :pasta: :pizza: and :music:
+I love :shoes: :pizza: and :music:
 
