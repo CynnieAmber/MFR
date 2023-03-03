@@ -2,5 +2,5 @@
 
 My first repository on GitHub
 
-I love :shoes: :pizza: and :music:
+I love :balletshoes: :pizza: and :musicalkeyboard:
 
